@@ -1,2 +1,4 @@
-streamlit
-sklearn
+numpy==1.23.5
+pickle-mixin==1.0.2
+streamlit==1.16.0
+scikit-learn==1.2.0
