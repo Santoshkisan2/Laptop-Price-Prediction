@@ -1,2 +1,2 @@
-streamlit
-sklearn
+streamlit == 1.16.0
+sklearn == 1.2.0
